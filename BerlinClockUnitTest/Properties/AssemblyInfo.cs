@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BerlinClock")]
+[assembly: AssemblyTitle("BerlinClockUnitTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TEST COMPANY")]
-[assembly: AssemblyProduct("BerlinClock")]
-[assembly: AssemblyCopyright("Copyright © TEST COMPANY 2016")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("BerlinClockUnitTest")]
+[assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("556c4a6c-4bcd-4244-93ba-0d609facaf49")]
+[assembly: Guid("2cc46183-f272-414e-8351-29c624638f58")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -34,4 +34,3 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: InternalsVisibleTo("BerlinClockUnitTest")]

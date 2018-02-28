@@ -49,3 +49,10 @@ RRRR
 OOOOOOOOOOO
 OOOO
 """
+
+Scenario: Invalid Time
+When the time is "88:99:77"
+Then the clock should look like
+"""
+Invalid Time
+"""
